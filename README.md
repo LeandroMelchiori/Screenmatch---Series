@@ -13,6 +13,16 @@
 
 ✔️ Diseño modular: Código limpio y fácil de expandir.
 
+## 🔧 Tecnologías Utilizadas
+
+🚀 Lenguaje: Java 17
+
+📦 Gestor de dependencias: Maven
+
+🐘 Base de datos: PostgreSQL
+
+💻 IDE recomendado: IntelliJ IDEA
+
 ## ✨ Futuras Mejoras
 📌 Integración con una API para obtener información de películas en tiempo real.
 
