@@ -15,13 +15,11 @@
 
 ## 🔧 Tecnologías Utilizadas
 
-🚀 Lenguaje: Java 17
-
-📦 Gestor de dependencias: Maven
-
-🐘 Base de datos: PostgreSQL
-
-💻 IDE recomendado: IntelliJ IDEA
+- **Java 17**
+- **Spring Boot 3**
+- **HTML, CSS y JS**
+- **PostgreSQL**
+- **Maven**
 
 ## ✨ Futuras Mejoras
 📌 Integración con una API para obtener información de películas en tiempo real.
