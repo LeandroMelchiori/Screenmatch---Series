@@ -4,9 +4,13 @@
 
 ## 🚀 Características
 ✔️ Gestión de series y películas: Agregar, listar y analizar contenido.
+
 ✔️ Cálculo de tiempo de visualización: Estima la duración total de lo que has visto.
+
 ✔️ Interfaz Clasificable: Permite estandarizar las calificaciones de los contenidos.
+
 ✔️ Base de datos PostgreSQL: Almacenamiento persistente de datos.
+
 ✔️ Diseño modular: Código limpio y fácil de expandir.
 
 ## ✨ Futuras Mejoras
