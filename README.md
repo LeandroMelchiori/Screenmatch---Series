@@ -15,6 +15,7 @@
 
 ## ✨ Futuras Mejoras
 📌 Integración con una API para obtener información de películas en tiempo real.
+
 📌 Actualizacion de la interfaz grafica.
 
 ## 🤝 Contribuciones
